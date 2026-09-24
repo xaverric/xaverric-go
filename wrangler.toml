@@ -32,4 +32,4 @@ enabled = true
 
 [vars]
 APP_URL = "https://go.xaverric.cz"
-GITHUB_CLIENT_ID = ""
+GITHUB_CLIENT_ID = "Ov23lilSMBAvDgGwAiMG"
