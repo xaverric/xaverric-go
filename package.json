@@ -22,11 +22,11 @@
     "@cloudflare/vitest-pool-workers": "^0.23.0",
     "@eslint/js": "^10.0.1",
     "@vitest/runner": "4.1.11",
-    "@vitest/snapshot": "4.1.11",
-    "eslint": "^10.11.0",
-    "eslint-plugin-security": "^4.0.1",
-    "globals": "^17.12.0",
-    "vitest": "4.1.11",
-    "wrangler": "^4.151.1"
+    "@vitest/snapshot": "4.1.12",
+    "eslint": "^10.13.0",
+    "eslint-plugin-security": "^4.2.0",
+    "globals": "^17.13.0",
+    "vitest": "4.1.12",
+    "wrangler": "^4.152.0"
   }
 }
